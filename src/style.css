@@ -1,0 +1,13 @@
+#style-custom {
+  height: 100vh;
+  margin: 0;
+  background: linear-gradient(#b3b6a9 50%, #ffffff 50%);
+}
+
+#style-custom .center-fix {
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+}
